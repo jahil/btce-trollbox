@@ -12,3 +12,6 @@ Installation
 Usage
 -----
 	python trollbox.py
+
+
+![Trollbox](jahil.github.com/trollbox/trollbox.png)
