@@ -14,4 +14,4 @@ Usage
 	python trollbox.py
 
 
-![Trollbox](jahil.github.com/trollbox/trollbox.png)
+![Trollbox](https://raw2.github.com/jahil/trollbox/master/trollbox.png)
