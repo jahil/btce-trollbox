@@ -20,4 +20,4 @@ Usage
 Screenshot
 ----------
 
-![Trollbox](https://raw2.github.com/jahil/trollbox/master/trollbox.png)
+![Trollbox](https://raw.githubusercontent.com/jahil/btce-trollbox/master/trollbox.png)
